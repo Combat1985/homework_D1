@@ -1,0 +1,9 @@
+/about/
+/config/
+/contacts/
+
+Login
+admin
+
+pass
+1
